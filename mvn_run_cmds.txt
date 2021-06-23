@@ -1,0 +1,11 @@
+Build project with command- 'mvnw.cmd install'
+Run application with 'mvnw.cmd spring-boot:run'
+
+or
+
+Build project with command- 'mvnw.cmd install'
+Upload war file to serer
+Run application with 'java -jar <filename>'
+
+
+mvn clean - command to clean build
